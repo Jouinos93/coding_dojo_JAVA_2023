@@ -1,4 +1,4 @@
-package com.souha.LoginResgister.Models;
+package com.mariem.LoginResgister.Models;
 
 import java.awt.print.Book;
 import java.util.Date;

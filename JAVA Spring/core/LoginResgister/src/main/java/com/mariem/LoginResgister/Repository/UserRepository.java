@@ -1,11 +1,11 @@
-package com.souha.LoginResgister.Repository;
+package com.mariem.LoginResgister.Repository;
 
 import java.util.Optional;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.souha.LoginResgister.Models.User;
+import com.mariem.LoginResgister.Models.User;
 
 @Repository
 public interface UserRepository extends CrudRepository<User, Long> {

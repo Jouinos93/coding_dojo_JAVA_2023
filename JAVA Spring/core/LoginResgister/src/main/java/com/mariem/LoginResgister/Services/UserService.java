@@ -1,4 +1,4 @@
-package com.souha.LoginResgister.Services;
+package com.mariem.LoginResgister.Services;
 
 import java.util.Optional;
 
@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
 
-import com.souha.LoginResgister.Models.LoginUser;
-import com.souha.LoginResgister.Models.User;
-import com.souha.LoginResgister.Repository.UserRepository;
+import com.mariem.LoginResgister.Models.LoginUser;
+import com.mariem.LoginResgister.Models.User;
+import com.mariem.LoginResgister.Repository.UserRepository;
 
 @Service
 public class UserService {

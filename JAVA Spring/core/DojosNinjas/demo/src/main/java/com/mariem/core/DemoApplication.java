@@ -1,13 +1,13 @@
-package com.souha.LoginResgister;
+package com.mariem.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LoginResgisterApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LoginResgisterApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }

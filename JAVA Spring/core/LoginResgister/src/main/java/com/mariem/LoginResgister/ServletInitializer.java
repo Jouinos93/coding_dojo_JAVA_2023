@@ -1,4 +1,4 @@
-package com.souha.LoginResgister;
+package com.mariem.LoginResgister;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

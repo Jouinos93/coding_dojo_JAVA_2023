@@ -1,4 +1,4 @@
-package com.souha.LoginResgister.Models;
+package com.mariem.LoginResgister.Models;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;
