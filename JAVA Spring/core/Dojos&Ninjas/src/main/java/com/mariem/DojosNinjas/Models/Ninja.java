@@ -1,4 +1,4 @@
-package com.souha.DojosNinjas.Models;
+package com.mariem.DojosNinjas.Models;
 
 import java.util.Date;
 

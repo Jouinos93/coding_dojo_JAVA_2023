@@ -1,12 +1,12 @@
-package com.souha.DojosNinjas.Services;
+package com.mariem.DojosNinjas.Services;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import com.souha.DojosNinjas.Models.Dojo;
-import com.souha.DojosNinjas.Repositories.DojoRepository;
+import com.mariem.DojosNinjas.Models.Dojo;
+import com.mariem.DojosNinjas.Repositories.DojoRepository;
 @Service
 public class DojoService {
 	private final DojoRepository DojoRepo;

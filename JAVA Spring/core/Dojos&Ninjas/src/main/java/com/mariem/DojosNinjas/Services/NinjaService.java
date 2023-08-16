@@ -1,12 +1,12 @@
-package com.souha.DojosNinjas.Services;
+package com.mariem.DojosNinjas.Services;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import com.souha.DojosNinjas.Models.Ninja;
-import com.souha.DojosNinjas.Repositories.NinjaRepository;
+import com.mariem.DojosNinjas.Models.Ninja;
+import com.mariem.DojosNinjas.Repositories.NinjaRepository;
 @Service
 public class NinjaService {
 	 private final NinjaRepository ninjaRepository;

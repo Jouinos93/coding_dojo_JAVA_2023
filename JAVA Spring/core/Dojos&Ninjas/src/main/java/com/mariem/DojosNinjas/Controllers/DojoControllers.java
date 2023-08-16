@@ -1,4 +1,4 @@
-package com.souha.DojosNinjas.Controllers;
+package com.mariem.DojosNinjas.Controllers;
 
 import java.util.List;
 
@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.souha.DojosNinjas.Models.Dojo;
-import com.souha.DojosNinjas.Models.Ninja;
-import com.souha.DojosNinjas.Services.DojoService;
-import com.souha.DojosNinjas.Services.NinjaService;
+import com.mariem.DojosNinjas.Models.Dojo;
+import com.mariem.DojosNinjas.Models.Ninja;
+import com.mariem.DojosNinjas.Services.DojoService;
+import com.mariem.DojosNinjas.Services.NinjaService;
 
 import jakarta.validation.Valid;
 
